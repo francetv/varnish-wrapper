@@ -1,4 +1,4 @@
-varnish-rb
+varnish-wrapper
 ==========
 
 varnish-rb provides a bridge between Ruby and [Varnish 3](http://varnish-cache.org/).
@@ -33,7 +33,7 @@ be out of your mind to use it in production.
 
 See examples/log\_tail.rb and especially examples/request\_tail.rb for a taste of how to use this API.
 
-Contributing to varnish-rb
+Contributing to varnish-wrapper
 ==========================
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
